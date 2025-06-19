@@ -1,4 +1,4 @@
-# -Portfolio-Risk-Assessment-1-Day-95-VaR-Calculation
+# Portfolio-Risk-Assessment-1-Day-95-VaR-Calculation
 Python (Pandas, NumPy, Matplotlib, Seaborn), Yahoo Finance API, Scipy
 📌 Project Highlights:
 My project focused on assessing the risk of a diversified stock portfolio using historical data from major tech giants: Apple, Microsoft, Google, and Amazon.
